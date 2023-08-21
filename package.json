@@ -1,7 +1,7 @@
 {
   "name": "com.frixqn.textsizefilter",
   "displayName": "Text Size Filter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2021.1",
   "description": "Component which can help to work with text more effective. For example it will be useful when use localization, or dinamically changed text.",
   "author": {
